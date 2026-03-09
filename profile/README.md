@@ -71,7 +71,7 @@ Bookable rooms:
 There are ~30 flexible desks that can be used any time. For now there is no booking systems and desks can be used on a first-come basis.
 
 ## Access to the building
-Any ZDM member can request access to the building by sending an email to zdm-info. You can then access the building using your UKD card.
+Any ZDM member can request access to the building by sending an email to zdm-info [at] med.uni-duesseldorf.de including your UKD card number. You can then access the building using your UKD card.
 
 ## ZDM Statutes (in German)
 https://www.medizin.hhu.de/fileadmin/redaktion/Fakultaeten/Medizinische_Fakultaet/Dekanat/Dok_Download/Satzungen/02.08.2022_Satzung_des_Zentrums_fuer_Digitale_Medizin.pdf
